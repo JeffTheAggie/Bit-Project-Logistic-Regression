@@ -2,6 +2,7 @@
 
 #Load Dataset
 library(dplyr)
+set.seed(123)
 chest = heart
 
 #Looks at first 6 rows of dataset
